@@ -5,7 +5,6 @@ import {
   school,
   bookish,
   bloomVerse,
-  projectTwo,
   componentLibrary,
 } from "../../assets/index";
 
