@@ -1,9 +1,5 @@
 import React from "react";
 
-import Card from "./Card";
-import Title from "../layouts/Title";
-import { SiMongodb, SiTailwindcss, SiTypescript } from "react-icons/si";
-import { IoLogoJavascript } from "react-icons/io";
 import {
   FaGithub,
   FaNodeJs,
@@ -11,6 +7,10 @@ import {
   FaCss3Alt,
   FaReact,
 } from "react-icons/fa";
+import Card from "./Card";
+import Title from "../layouts/Title";
+import { IoLogoJavascript } from "react-icons/io";
+import { SiMongodb, SiTypescript } from "react-icons/si";
 
 const Features = () => {
   return (
