@@ -27,3 +27,11 @@
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
 }
+
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #212428;
+    color: #c4cfde;
+  }
+}
